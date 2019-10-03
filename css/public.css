@@ -1,0 +1,86 @@
+#hot .sideLr ul li a:hover,
+#time .timelf h2 a:hover,
+#time .timelr .item li a:nth-child(2):hover,
+#hot .main .Topic ul li a:hover,
+#move .moveTitle h2 a:hover,
+#move .moveContent ul li a:hover,
+#filmContent .moveTitle h2 a:hover,
+#filmContent  .moveTitle ul li a:hover,
+#filmContent .movehot h2 a:hover,
+#filmContent .movehot .types ul li a:hover,
+#filmContent .well .vote ul li p a:hover,
+#group .grouplt h2 a:hover,
+#group .grouplt ul li a:hover,
+#group .grouprt ul li a:hover,
+#group .groupcontent ul li p a:hover,
+#read .readlf h2 a:hover,
+#read .readlf .readTile li a:hover,
+#read .readlr ul li a:hover{
+	    color: #fff;
+		background: #37a;
+}
+#hot .sideLr ul li a:active,
+#time .timelf h2 a:active,
+#time .timelr .item li a:nth-child(2):active,
+#hot .main .Topic ul li a:active,
+#move .moveTitle h2 a:active,
+#move .moveContent ul li a:active,
+#filmContent .moveTitle h2 a:active,
+#filmContent  .moveTitle ul li a:active,
+#filmContent .movehot h2 a:active,
+#filmContent .movehot .types ul li a:active,
+#filmContent .well .vote ul li p a:active,
+#group .grouplt h2 a:active,
+#group .grouplt ul li a:active,
+#group .grouprt ul li a:active,
+#group .groupcontent ul li p a:active,
+#read .readlf h2 a:active,
+#read .readlf .readTile li a:active,
+#read .readlr ul li a:active{
+	    background: #f93;}
+
+
+.leftTitle{
+   margin-right: 20px;
+   width: 100px;
+}
+
+
+/* 左边标题样式 */
+
+.leftTitle h2 a{
+  font-size: 24px;
+  font-weight: normal;
+  color: #494949;
+}
+
+
+
+/* 绿色标题样式 */
+
+.greenTitle{
+	 padding: 7px 0px 12px 0px;
+	 color: #072;
+	 font-size: 15px;
+	 font-weight: normal;
+}
+
+
+/* 括号内容样式 */
+.greenTitle a{
+	font-size: 12px;
+	color: #27a;
+}
+
+
+
+
+
+
+
+
+        
+        
+         
+         
+         

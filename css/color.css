@@ -1,0 +1,79 @@
+
+
+
+/* color */
+#hot .sideLr ul li a,
+#hot .main .Topic ul li a,
+#hot .sideLf ul li a{
+color: #37a;
+}
+
+#hot .sideLf ul li .text,
+#hot .main .Topic ul li span,
+#time .timelr .item li span,
+#hot .sideLr ul .first .cr4,
+#group .groupcontent ul li,
+#music .musiclr ul li .foers,
+#footer .footerfl
+{color: #999999;}
+
+
+.moveTitle,
+.moveTitle ul li a,
+#filmContent .movehot a,
+#shopp .shoppcontent a,
+#shopp .shopplr a,
+#same .samecontent a,
+#same .samelf a,
+#same .samelr a,
+#footer a
+{
+color: #2277AA;
+}	
+	
+#time .timelr .item li a:nth-child(2),
+#filmContent .well .vote ul li p a{
+	color: #333333;
+}	
+
+#music .musicContent .music_score i,
+#filmContent .well i{color: #e09015;}
+
+#group  a{
+	    color: #017a85;
+}
+
+#read .readlr ul li a,
+#read .readlf ul li a{
+    font-size: 12px;
+    color: #614e3c;
+}
+
+#shopp .shoppcontent ul li span{
+	color: #E55457;
+}
+
+#music .musiclf h2 a,
+#same .samelf h2 a{
+    color: #f38c00;
+}
+
+/* font-size */
+
+
+#time .timelr .item li a:nth-child(2),
+#move .moveContent ul li a,
+#filmContent .well .vote ul li p a,
+#group .groupcontent ul li p a,
+#read .readcontent ul li p a,
+#music .musicContent .hotmusic p,
+#same .samecontent ul li .message a{
+	font-size: 13px;
+}
+
+#filmContent  .moveTitle ul li,
+ #group .grouplt ul li,
+ #music  .musiclf ul li a,
+ #same .samelf ul li a{
+		font-size: 14px;
+}
